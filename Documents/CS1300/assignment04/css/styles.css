@@ -1,0 +1,122 @@
+#top {
+    background-color: #ffffff;
+    height: 7em;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+#banner {
+    background-color: red;
+    text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    height: 5em;
+    width: 100%;
+    padding-top: 0.5em;
+}
+
+#global_nav {
+    background-color: yellow;
+    border-bottom: solid 2px red;
+    font-family: courier, sans-serif;
+    height: 2em;
+    margin-right: auto;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+
+#badge_bar {
+	margin-top: 9em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.badge {
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
+
+.nav_span {
+    margin-right: 2em;
+}
+
+#center_div1 {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
+
+#center_div2 {
+	margin-top: 9em;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
+
+#left1 {
+	float: left;
+    width: 470px;
+    height: 150px;
+}
+
+#right1 {
+	float: right;
+    width: 470px;
+    height: 150px; 
+}
+
+#left2 {
+	float: left;
+    width: 470px;
+    height: 350px;
+}
+
+#right2 {
+	float: right;
+    width: 470px;
+    height: 350px; 
+}
+
+.image {
+	display: block;
+	width: 480px;
+	height: 360px;
+	margin:auto;
+}
+
+.caption {
+	text-align: center;
+	font-style: italic;
+}
+
+p {
+	font-size: 100%;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+    margin-top: 1.5em;
+}
+
+tr td {
+    border-bottom: solid 3px #abd9e9;
+    padding-right: 3em;
+    padding-left: 3em;
+    text-align: center;
+}
+
+th {
+    border-bottom: solid 3px #2c7bb6;
+}
+
+td {
+    padding: 0.5em;
+}

@@ -1,0 +1,48 @@
+.header {
+	text-align: center;	
+}
+
+.title {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 5em;
+	color: #f1f442;
+	padding-top: 45px;
+}
+
+.main_content {
+	padding-top: 100px;
+	max-width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.uniform1 {
+	padding-top: 5px;
+}
+
+.image {
+	display: block;
+	max-width: 80%;
+	min-width: 80%;
+	height: auto;
+	margin:auto;
+}
+.caption {
+	text-align: center;
+	font-style: italic;
+}
+
+html {
+	overflow-x:hidden;
+}
+
+body {
+	background-image: url("../images/desk1.jpg");
+	background-attachment: fixed;
+	/*https://goo.gl/images/8QOroo*/
+}
+
+p {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: white;
+}

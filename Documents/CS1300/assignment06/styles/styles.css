@@ -1,0 +1,48 @@
+/* All of YOUR styles go here. They take effect after those in the normalize CSS file, but will overwrite anything that conflicts. */
+#title h1{
+	text-align: center;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 1280px;
+}
+
+nav {
+  background-color: #b31b1b;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  text-align: center;
+  width: 1280px;
+}
+
+#container {
+  background-color: rgba(200,200,200,0.5);
+  font-size: 18px;
+  height: 720px;
+  width: 1280px;
+  padding: 0%;
+  margin: 0 auto;
+}
+
+#button_container{
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+#image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+  background-color: #CECECE;
+  color: grey;
+  display: block;
+  font-size: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 0;
+  text-align: center;
+}

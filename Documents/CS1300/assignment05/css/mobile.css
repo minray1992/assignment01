@@ -1,0 +1,40 @@
+/* if less than 480px */ 
+@media (max-width: 480px) {
+	body {
+		background-image: url("../images/desk3.jpg");
+		/*https://goo.gl/images/yVAXay*/
+	}
+
+	.title {
+		font-size: 2em;
+	}
+
+	.image {
+		display: none;
+	}
+	.caption {
+		display: none;
+	}
+	.words {
+		font-size: 125%;
+	}
+}
+/* between 481 and 768 */ 
+@media (min-width: 481px) and (max-width: 768px) { 
+	body {
+		background-image: url("../images/desk2.jpg");
+		/*https://goo.gl/images/BpRl*/
+	}
+
+	.title {
+		font-size: 3em;
+	}
+}
+
+/* between 769 and 1200 */ 
+@media (min-width: 769px) and (max-width: 1200px) {
+	body {
+		background-image: url("../images/desk1.jpg");
+		/*https://goo.gl/images/8QOroo*/
+	}
+}

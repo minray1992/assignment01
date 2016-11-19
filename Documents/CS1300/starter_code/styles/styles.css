@@ -1,0 +1,28 @@
+/* 
+* INFO/CS 1300
+* Fall 2016
+* supplemental styling for Week 7 lab 
+*/
+
+#button_container {
+    float: left;
+    height: 302px;
+    width: 150px;
+}
+
+#image_container {
+    border: solid 1px rgba(184, 38, 1, 0.25);
+    display: inline-block;
+    height: 302px;
+    padding: 1em;
+    position: relative;
+    width: 302px;
+}
+
+button {
+    width: 100px;
+}
+
+#reset {
+    margin-top: 1em;
+}
